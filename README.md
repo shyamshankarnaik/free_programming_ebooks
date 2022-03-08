@@ -16,14 +16,14 @@ Since C and C++ have been around for a while, there is a lot more to choose from
 As for C, you could check out the [C Wikibook](https://en.wikibooks.org/wiki/C_Programming), [Deep C and C++](https://www.slideshare.net/olvemaudal/deep-c), and[ Learn C ](https://learncodethehardway.org/c/)The Hard Way
 # Git
 If you are not sure whether Git is right for you, Version Control by Example will help you decide between Apache Subversion, Mercurial, Git, and Veracity.
-Stanford’s Git Magic is another quality resource, and unlike most books in our list, it is available in a range of languages, including Chinese, French, Italian, Polish and Russian.
-The GitHub Cheat Sheet is a useful collection of hidden features and power user tips for Git and GitHub.
+Stanford’s[ Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) is another quality resource, and unlike most books in our list, it is available in a range of languages, including Chinese, French, Italian, Polish and Russian.
+The[ GitHub Cheat Sheet ](https://github.com/tiimgreen/github-cheat-sheet)is a useful collection of hidden features and power user tips for Git and GitHub.
 # HTML and CSS
 Many authors choose to cover HTML and CSS in a single publication, so I will list both.
 
-The Google HTML/CSS Style Guide is a great place to learn more about best practices. The guide contains a myriad of rules governing HTML and CSS style, formatting, meta and more.
-Shay Howe’s Learn to Code HTML & CSS, and Learn to Code Advanced HTML & CSS are two straightforward guides with different learning curves, making them suitable for people looking to learn the basics, or expand their skill set with some advanced techniques.
-If you are familiar with HTML, but need to update your skills, Dive Into HTML5 is a good choice. The focus is on moving to HTML5 and utilising new features, plus, you might appreciate Mark Pilgrim’s style. Other HTML5 resources include HTML5 Canvas, HTML5 For Web Designers and HTML5 for Publishers.
+The[ Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) is a great place to learn more about best practices. The guide contains a myriad of rules governing HTML and CSS style, formatting, meta and more.
+Shay Howe’s[ Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/), and Learn to Code [Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/) are two straightforward guides with different learning curves, making them suitable for people looking to learn the basics, or expand their skill set with some advanced techniques.
+If you are familiar with HTML, but need to update your skills, [Dive Into HTML5](http://diveintohtml5.info/) is a good choice. The focus is on moving to HTML5 and utilising new features, plus, you might appreciate Mark Pilgrim’s style. Other HTML5 resources include [HTML5 Canvas](https://www.oreilly.com/), HTML5 For Web Designers and HTML5 for Publishers.
 # iOS
 Five years ago, Apple published six free ebooks for iOS developers: Cocoa Fundamental’s Guide, The Objective-C Programming Language, iOS Application Programming Guide, Object Oriented Programming With Objective-C, iOS Technology Overview, and iOS Human Interface Guidelines. The books were freely distributed via the iBookstore. Apple also offers additional resources for developers new to iOS, such as Start Developing iOS Apps Today.
 
