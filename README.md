@@ -10,10 +10,10 @@ If you are looking for free design advice, you should check out [Styling Android
 I should note that most Android tutorials, and virtually all books, assume that you already know your way around Java. In case you don’t, you will have to start there before moving on to these Android resources.
 # C Sharp, C, C++
 The Beginner’s Guide to C# and the .NET Micro Framework is a relatively recent publication by GHI Electronics. It is a brief, but concise, guide that should help you get started.
-The C# Programming Yellow Book is published by the University of Hull and, since it’s part of the university’s courses, the book is updated on a regular basis.
-For more specific information you can turn to Data Structures and Algorithms with Object-Oriented Design Patterns in C#. You should also check out Joseph Albahari’s Threading in C#
-Since C and C++ have been around for a while, there is a lot more to choose from, but many of these resources are out of date, or just plain bad. If you are looking for C++ books and tutorials, I suggest you check out this Stackoverflow thread and find something good. I should note that not all of these books are free.
-As for C, you could check out the C Wikibook, Deep C and C++, and Learn C The Hard Way
+The[ C# Programming Yellow Book](http://www.csharpcourse.com/) is published by the University of Hull and, since it’s part of the university’s courses, the book is updated on a regular basis.
+For more specific information you can turn to[ Data Structures and Algorithms](https://freecomputerbooks.com/Data-Structures-and-Algorithms-with-Object-Oriented-Design-Patterns-in-C-Sharp.html) with Object-Oriented Design Patterns in C#. You should also check out Joseph Albahari’s [Threading in C#](https://www.albahari.com/threading/)
+Since C and C++ have been around for a while, there is a lot more to choose from, but many of these resources are out of date, or just plain bad. If you are looking for C++ books and tutorials, I suggest you check out this[ Stackoverflow thread](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) and find something good. I should note that not all of these books are free.
+As for C, you could check out the [C Wikibook](https://en.wikibooks.org/wiki/C_Programming), [Deep C and C++](https://www.slideshare.net/olvemaudal/deep-c), and[ Learn C ](https://learncodethehardway.org/c/)The Hard Way
 # Git
 If you are not sure whether Git is right for you, Version Control by Example will help you decide between Apache Subversion, Mercurial, Git, and Veracity.
 Stanford’s Git Magic is another quality resource, and unlike most books in our list, it is available in a range of languages, including Chinese, French, Italian, Polish and Russian.
